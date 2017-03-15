@@ -1,4 +1,4 @@
-# React 中文文档
+# ReactVR 中文文档
 
 > 在线地址：http://webvrcn.org/react-vr/
 
