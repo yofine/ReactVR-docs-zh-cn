@@ -8,3 +8,4 @@
 
 [GitHub](https://github.com/yofine/ReactVR-docs-zh-cn)
 [Get Started](/getting-started)
+[文档翻译状态](/status)
