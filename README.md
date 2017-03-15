@@ -4,6 +4,10 @@
 
 > 英文原版：https://facebookincubator.github.io/react-vr/
 
+## 翻译状态概览
+
+## 所有文档
+
 ## 贡献内容
 
 ## 作者列表
