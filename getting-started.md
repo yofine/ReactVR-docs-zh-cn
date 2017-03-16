@@ -20,7 +20,7 @@
 7. 启动服务后, 用你的浏览器打开 [http://localhost:8081/Samples](http://localhost:8081/Samples) 查看示例
 
 ## 创建你的第一个项目
-我们可以使用 ReactVR 命令行工具生成一个叫做WelcomeToVR 的新项目. 它会创建一个新的目录，包含了 ReactVR 项目的骨架以及所有必须的额外依赖.
+我们可以使用 ReactVR 命令行工具生成一个叫做WelcomeToVR 的新项目. 它会创建一个新的目录，包含了 ReactVR 项目的框架以及所有必须的额外依赖.
 1. 如果你还在终端窗口运行 npm, 按下 `CTRL+C` 结束它.
 2. 进入你想放新项目的目录.
 3. 安装 ReactVR 命令行工具. 输入:
