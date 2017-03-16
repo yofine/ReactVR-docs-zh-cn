@@ -36,6 +36,6 @@
 ## Hello!
 在浏览器中点击并拖动整个世界, 或在移动设备上打开它以查看更多内容.
 
-如果你在使用支持 WebVR 的浏览器, 比如 [the Carmel Developer Preview browser from Oculus](https://www.oculus.com/experiences/gear-vr/1290985657630933/), 你应该可以戴上耳机探索完整的 VR 世界. 想获取更多支持VR 的浏览器的信息, 请关注 [VR Browsers](https://facebookincubator.github.io/react-vr/docs/vrbrowsers.html) 主题
+如果你在使用支持 WebVR 的浏览器, 比如 [the Carmel Developer Preview browser from Oculus](https://www.oculus.com/experiences/gear-vr/1290985657630933/), 你可以带上你的头盔去探索完整的 VR 世界. 想获取更多支持VR 的浏览器的信息, 请关注 [VR Browsers](https://facebookincubator.github.io/react-vr/docs/vrbrowsers.html) 主题
 
-我们的下个主题是如何将这个场景带入生活
+我们的下个主题是如何将这个场景带入现实生活
