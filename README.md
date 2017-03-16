@@ -8,13 +8,13 @@
 
 |  文档总页数 | 翻译过的文档数量 |
 | :------| :------ |
-| 45 | 0 |
+| 45 | 1 |
 
 ## 所有文档
 
 |  文档标题及链接 | 目前翻译状态 |
 | :-------------- | :----------- |
-| [Getting Started](http://webvrcn.org/react-vr/#/getting-started) |  未完成 |
+| [Getting Started](http://webvrcn.org/react-vr/#/getting-started) |  已完成 |
 | [Hello World](http://webvrcn.org/react-vr/#/hello-world) |  未完成 |
 | [Project Configuration](http://webvrcn.org/react-vr/#/project-configuration) |  未完成 |
 | [Publishing Your Project](http://webvrcn.org/react-vr/#/publishing) |  未完成 |
@@ -60,8 +60,12 @@
 | [Layout Props](http://webvrcn.org/react-vr/#/layout-props) |  未完成 |
 | [Layout And Transform Props](http://webvrcn.org/react-vr/#/layout-and-transform-props) |  未完成 |
 
-## 贡献内容
+## Contributing
+如果你对 ReactVR 感兴趣，非常欢迎你来参与本文档的翻译工作
+- fork 代码库
+- 在 Issue 中认领带有`待认领`标签的文档
+- git clone 
+- npm install -g docsify && `docsify serve .`
+- 翻译完成后提交 [Pull requests](https://github.com/yofine/ReactVR-docs-zh-cn/pulls)
 
-## 作者列表
-
-## 版权许可
+也可在 Issues 中对已翻译的文档提出修改建议，找到对应 Issue 评论即可
