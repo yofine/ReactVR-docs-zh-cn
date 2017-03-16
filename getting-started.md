@@ -1,4 +1,4 @@
-# 入门
+#  开始
 在开始你的第一个 ReactVR 项目之前, 你需要安装一些依赖去构建和管理你的 ReactVR 应用：Node.js 和 React VR CLI.
 
 ## 安装 Node.js
