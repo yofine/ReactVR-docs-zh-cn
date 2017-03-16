@@ -8,7 +8,7 @@
 - Linux: 去 [nodejs.org 包管理页面](https://nodejs.org/en/download/package-manager/) 寻找你所使用 linux 发行版的详细说明.
 
 ## 运行示例
-开始之前，从 Oculus 下载 [React VR Prerelease.zip ], 为了运行示例应用, 你必须先通过 NPM 安装一些依赖包.
+开始之前，从 Oculus 下载 [React VR Prerelease.zip](https://s3.amazonaws.com/static.oculus.com/reactvr/React_VR_Prerelease.zip), 为了运行示例应用, 你必须先通过 NPM 安装一些依赖包.
 1. 打开终端或者命令行窗口.
 2. 进入到 React VR Preelease 预览文件夹.
 3. 输入:
