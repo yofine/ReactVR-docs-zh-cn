@@ -14,7 +14,7 @@
 
 |  文档标题及链接 | 目前翻译状态 |
 | :-------------- | :----------- |
-| [Getting Started](http://webvrcn.org/react-vr/#/getting-started) |  已完成 |
+| [Getting Started](http://webvrcn.org/react-vr/#/getting-started) |  已完成 [yofine](https://github.com/yofine) |
 | [Hello World](http://webvrcn.org/react-vr/#/hello-world) |  未完成 |
 | [Project Configuration](http://webvrcn.org/react-vr/#/project-configuration) |  未完成 |
 | [Publishing Your Project](http://webvrcn.org/react-vr/#/publishing) |  未完成 |
