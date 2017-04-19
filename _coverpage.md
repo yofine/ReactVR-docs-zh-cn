@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](https://facebookincubator.github.io/react-vr/img/header_logo.png)
+![logo](https://facebook.github.io/react-vr/img/header_logo.png)
 
 # ReactVR 中文文档
 
