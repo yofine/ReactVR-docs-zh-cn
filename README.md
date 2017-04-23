@@ -2,7 +2,7 @@
 
 > 在线地址：http://webvrcn.org/react-vr/
 
-> 英文原版：https://facebookincubator.github.io/react-vr/
+> 英文原版：http://facebook.github.io/react-vr/index.html
 
 ## 翻译状态概览
 
