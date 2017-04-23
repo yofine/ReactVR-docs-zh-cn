@@ -1,6 +1,6 @@
 - THE BASICS
   - [Getting Started](/getting-started)
-  - [Hello World](/hello-world)
+  - [Hello World](/tutorial)
   - [Project Configuration](/project-configuration)
   - [Publishing Your Project](/publishing)
   - [React VR Overview](/react-vroverview)
