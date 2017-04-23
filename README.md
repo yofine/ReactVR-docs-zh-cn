@@ -15,7 +15,7 @@
 |  文档标题及链接 | 目前翻译状态 |
 | :-------------- | :----------- |
 | [Getting Started](http://webvrcn.org/react-vr/#/getting-started) |  已完成 [yofine](https://github.com/yofine) |
-| [Hello World](http://webvrcn.org/react-vr/#/hello-world) |  未完成 |
+| [Hello World](http://webvrcn.org/react-vr/#/hello-world) |   翻译中 [Shaoyao·琚](https://github.com/juzhiyuan) |
 | [Project Configuration](http://webvrcn.org/react-vr/#/project-configuration) |  未完成 |
 | [Publishing Your Project](http://webvrcn.org/react-vr/#/publishing) |  未完成 |
 | [React VR Overview](http://webvrcn.org/react-vr/#/react-vroverview) |  未完成 |
@@ -65,7 +65,7 @@
 - fork 代码库
 - 在 Issue 中认领带有`待认领`标签的文档
 - git clone 
-- npm install -g docsify && `docsify serve .`
+- npm i -g docsify-cli && `docsify serve .`
 - 翻译完成后提交 [Pull requests](https://github.com/yofine/ReactVR-docs-zh-cn/pulls)
 
 也可在 Issues 中对已翻译的文档提出修改建议，找到对应 Issue 评论即可
