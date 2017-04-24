@@ -1,0 +1,18 @@
+{
+	"name"				: "ReactVR 中文文档",
+	"short_name"		: "ReactVR-CN",
+	"description": "ReactVR 中文文档",
+	"lang"				: "zh-CN",
+	"icons"				: [{  
+		"src"	: "http://7xwo1c.com1.z0.glb.clouddn.com/header_logo.png",  
+		"sizes"	: "66x58",
+		"type"	: "image/png" 
+  }, {
+		"src"	: "http://7xwo1c.com1.z0.glb.clouddn.com/favicon.png",  
+		"sizes"	: "64x64",
+		"type"	: "image/png" 
+	}], 
+	"start_url"			: "http://webvrcn.org/react-vr",
+	"display"			: "standalone",
+	"orientation" 		: "portrait-primary"
+}
