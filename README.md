@@ -16,11 +16,11 @@
 | :-------------- | :----------- |
 | [Getting Started](http://webvrcn.org/react-vr/#/getting-started) |  已完成 [yofine](https://github.com/yofine) |
 | [Hello World](http://webvrcn.org/react-vr/#/tutorial) | 已完成 [Shaoyao·琚](https://github.com/juzhiyuan) |
-| [Project Configuration](http://webvrcn.org/react-vr/#/project-configuration) |  未完成 |
-| [Publishing Your Project](http://webvrcn.org/react-vr/#/publishing) |  未完成 |
-| [React VR Overview](http://webvrcn.org/react-vr/#/react-vroverview) |  未完成 |
+| [Project Configuration](http://webvrcn.org/react-vr/#/project-configuration) |  翻译中 [Shaoyao·琚](https://github.com/juzhiyuan) |
+| [Publishing Your Project](http://webvrcn.org/react-vr/#/publishing) |  翻译中 [Shaoyao·琚](https://github.com/juzhiyuan) |
+| [React VR Overview](http://webvrcn.org/react-vr/#/react-vroverview) |  翻译中 [Shaoyao·琚](https://github.com/juzhiyuan) |
 | [Components, Props and State](http://webvrcn.org/react-vr/#/components-props-and-state) |  未完成 |
-| [Layout and Style](http://webvrcn.org/react-vr/#/layout-and-style) |  未完成 |
+| [Layout and Style](http://webvrcn.org/react-vr/#/layout-and-style) |  翻译中 [gitbu](https://github.com/gitbu) |
 | [3D Coordinates and Transforms](http://webvrcn.org/react-vr/#/3dcoordinates-and-transforms) |  未完成 |
 | [Handling Input](http://webvrcn.org/react-vr/#/input) |  未完成 |
 | [Fonts and Text](http://webvrcn.org/react-vr/#/fonts) |  未完成 |
@@ -35,9 +35,9 @@
 | [Native Modules](http://webvrcn.org/react-vr/#/native-modules) |  未完成 |
 | [Platform Specific Code](http://webvrcn.org/react-vr/#/platform-specific-information) |  未完成 |
 | [Samples](http://webvrcn.org/react-vr/#/samples) |  未完成 |
-| [View](http://webvrcn.org/react-vr/#/view) |  未完成 |
-| [Image](http://webvrcn.org/react-vr/#/image) |  未完成 |
-| [Text](http://webvrcn.org/react-vr/#/text) |  未完成 |
+| [View](http://webvrcn.org/react-vr/#/view) |  翻译中 [yofine](https://github.com/yofine) |
+| [Image](http://webvrcn.org/react-vr/#/image) |  翻译中 [yofine](https://github.com/yofine) |
+| [Text](http://webvrcn.org/react-vr/#/text) |  翻译中 [yofine](https://github.com/yofine) |
 | [Mesh](http://webvrcn.org/react-vr/#/mesh) |  未完成 |
 | [pano](http://webvrcn.org/react-vr/#/pano) |  未完成 |
 | [Scene](http://webvrcn.org/react-vr/#/scene) |  未完成 |
