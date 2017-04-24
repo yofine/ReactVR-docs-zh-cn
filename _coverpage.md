@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](https://facebook.github.io/react-vr/img/header_logo.png)
+![logo](http://7xwo1c.com1.z0.glb.clouddn.com/header_logo.png)
 
 # ReactVR 中文文档
 
