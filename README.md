@@ -1,14 +1,14 @@
 # ReactVR 中文文档
 
-> 在线地址：http://webvrcn.org/react-vr/
+> 在线地址：http://reactvr-china.org/docs
 
-> 英文原版：http://facebook.github.io/react-vr/index.html
+> 英文原版：https://facebook.github.io/react-vr/docs
 
 ## 翻译状态概览
 
 |  文档总页数 | 翻译过的文档数量 |
 | :------| :------ |
-| 45 | 2 |
+| 45 | 5 |
 
 ## 所有文档
 
@@ -16,9 +16,9 @@
 | :-------------- | :----------- |
 | [Getting Started](http://webvrcn.org/react-vr/#/getting-started) |  已完成 [yofine](https://github.com/yofine) |
 | [Hello World](http://webvrcn.org/react-vr/#/tutorial) | 已完成 [Shaoyao·琚](https://github.com/juzhiyuan) |
-| [Project Configuration](http://webvrcn.org/react-vr/#/project-configuration) |  翻译中 [Shaoyao·琚](https://github.com/juzhiyuan) |
-| [Publishing Your Project](http://webvrcn.org/react-vr/#/publishing) |  翻译中 [Shaoyao·琚](https://github.com/juzhiyuan) |
-| [React VR Overview](http://webvrcn.org/react-vr/#/react-vroverview) |  翻译中 [Shaoyao·琚](https://github.com/juzhiyuan) |
+| [Project Configuration](http://webvrcn.org/react-vr/#/project-configuration) |  已完成 [Shaoyao·琚](https://github.com/juzhiyuan) |
+| [Publishing Your Project](http://webvrcn.org/react-vr/#/publishing) |  已完成 [Shaoyao·琚](https://github.com/juzhiyuan) |
+| [React VR Overview](http://webvrcn.org/react-vr/#/react-vroverview) |  已完成 [Shaoyao·琚](https://github.com/juzhiyuan) |
 | [Components, Props and State](http://webvrcn.org/react-vr/#/components-props-and-state) |  未完成 |
 | [Layout and Style](http://webvrcn.org/react-vr/#/layout-and-style) |  翻译中 [gitbu](https://github.com/gitbu) |
 | [3D Coordinates and Transforms](http://webvrcn.org/react-vr/#/3dcoordinates-and-transforms) |  未完成 |
@@ -48,7 +48,7 @@
 | [DirectionalLight](http://webvrcn.org/react-vr/#/directionallight) |  未完成 |
 | [PointLight](http://webvrcn.org/react-vr/#/pointlight) |  未完成 |
 | [SpotLight](http://webvrcn.org/react-vr/#/spotlight) |  未完成 |
-| [Animated](http://webvrcn.org/react-vr/#/animated) |  未完成 |
+| [Animated](http://webvrcn.org/react-vr/#/animated) |  翻译中 [webliupeng](https://github.com/webliupeng) |
 | [AppRegistry](http://webvrcn.org/react-vr/#/appregistry) |  未完成 |
 | [AppState](http://webvrcn.org/react-vr/#/appstate) |  未完成 |
 | [AsyncStorage](http://webvrcn.org/react-vr/#/asyncstorage) |  未完成 |
